@@ -1,0 +1,39 @@
+_repo: War-Inconsistent-with-the-Religion-of-Jesus-Christ_35883
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Mead, Edwin D. (Edwin Doak)
+    alias: Mead, Edwin Doak
+    birthdate: 1849
+    deathdate: 1937
+    gutenberg_agent_id: '37075'
+    url: http://www.gutenberg.org/2009/agents/37075
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dodge, David Low
+    birthdate: 1774
+    deathdate: 1852
+    gutenberg_agent_id: '37956'
+    url: http://www.gutenberg.org/2009/agents/37956
+    wikipedia: http://en.wikipedia.org/wiki/David_Low_Dodge
+description: War inconsistent with the religion of Jesus Christ ("Prepared for the
+  press in 1812."--Introd.) -- Hymn -- The mediator's kingdom not of this world, but
+  spiritual (first published in 1809. Cf. Introd.).
+gutenberg_issued: '2011-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35883'
+  lccn: '05032755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War -- Religious aspects -- Christianity'
+- !lcsh 'Peace -- Religious aspects -- Christianity'
+- !lcc 'JX'
+title: War Inconsistent with the Religion of Jesus Christ
+url: http://www.gutenberg.org/ebooks/35883
